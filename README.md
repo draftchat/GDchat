@@ -118,6 +118,10 @@ The taken keys were entered and the information was verified. You can then commu
 <img src="https://www.pentest.com.tr/projects/images/usage4.png" height="%70" width="70%">
 </p>
 
+#### DRAFTCHAT GDchat module - Introduction and Usage (Youtube)
+
+[![DRAFTCHAT GDchat module - Introduction and Usage](https://www.pentest.com.tr/projects/images/usage5.png)](https://www.youtube.com/watch?v=TxmNtgga5Io "DRAFTCHAT GDchat module - Introduction and Usage")
+
 ## About the Responsibilities
 
 The fact that you are offered a private chat room does not mean that the communication you provide while using this tool may be **illegal**.
